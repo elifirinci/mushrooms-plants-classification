@@ -29,9 +29,9 @@ Both models are integrated into a **Gradio** interface for real-time testing and
 
 
 ## Technologies Used
-TensorFlow/Keras: Model training and development.
-Gradio: Interface for model interaction.
-Python: Core programming language.
+- TensorFlow/Keras: Model training and development.
+- Gradio: Interface for model interaction.
+- Python: Core programming language.
 
 
 Feel free to fork the repository, make enhancements, and submit a pull request.
