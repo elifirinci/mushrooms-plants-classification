@@ -1,7 +1,7 @@
 This repository contains two AI-powered models designed for safe foraging and identification:
 
-Mushroom Classification Model: Predicts whether a mushroom is poisonous or edible based on images.
-Plant Classification Model: Identifies whether a plant is poisonous or edible.
+- Mushroom Classification Model: Predicts whether a mushroom is poisonous or edible based on images.
+- Plant Classification Model: Identifies whether a plant is poisonous or edible.
 Both models are tested and demonstrated through an interactive Gradio interface for seamless usability.
 
 
