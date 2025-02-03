@@ -13,7 +13,7 @@ This project features two distinct AI models designed to ensure safety and aware
 1. **Mushroom Identification Model**  
    - Predicts if a mushroom is poisonous or edible based on image input.  
 2. **Plant Identification Model**  
-   - Classifies plants as poisonous or edible using image-based predictions.  
+   - Classifies plants as toxic or non-toxic using image-based predictions.  
 
 Both models are integrated into a **Gradio** interface for real-time testing and user interaction.
 
